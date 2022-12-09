@@ -6,7 +6,7 @@
 }
  /* this is the headden */
 .wrapper{
-    background: url(images/SchBG.jpg);
+    background: url(SchBG.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -175,7 +175,7 @@ nav ul li a {
     text-align: center;
 }
 .box{
-    background-image: url(images/div1.jpg);
+    background-image: url(div1.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
